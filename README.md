@@ -2,8 +2,15 @@
 A simple testbench to test the performance of verilator on your CPU
 
 ----
+## How to Run
 
-## How to run
+### Using Pre-built Binary
+1. Clone the repository
+2. Go to the `pre-built` directory and find a binary that matches your system
+3. Run the binary with: `<EXE> --meminit=ram,coremark.elf +ibex_tracer_enable=0`
+4. Report the score in `ladder.csv`
+
+### Building the Binary
 
 1. Clone the repository
 2. Make sure you have verilator v4.210 installed
