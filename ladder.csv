@@ -1,2 +1,7 @@
-Processor, Memory, Linux Distro, Best Score (CPS)
-12th Gen Intel i9-12900H (20) @ 2.918GHz, 32098MiB, Ubuntu 22.04.5 LTS on Windows 10 x86_64, 1.50951M
+Processor, Memory, Linux Distro, Verilator Version, Best Score (CPS)
+AMD Ryzen 7 5800X3D (16) @ 3.40GHz, 64210MiB, Ubuntu 22.04.4 LTS x86_64, 4.210, 1.17502M
+12th Gen Intel i7-12800H (20) @ 2.803GHz, 31932MiB, Ubuntu 22.04.3 LTS on Windows 10 x86_64, 4.210, 1.36639M
+12th Gen Intel i9-12900H (20) @ 2.918GHz, 32098MiB, Ubuntu 22.04.5 LTS on Windows 10 x86_64, 4.210, 1.50951M
+AMD Ryzen 9 7950X (32) @ 5.881GHz, 63405MiB, Ubuntu 22.04.4 LTS x86_64, 4.210, 1.71408M
+Apple M3 (8) @ 4.05GHz, 3902MiB, Ubuntu 24.04.1 LTS aarch64, 5.028, 1.84481M
+Apple M3 (8) @ 4.05GHz, 3908MiB, Ubuntu 22.04.5 LTS aarch64, 4.210, 2.05366M
