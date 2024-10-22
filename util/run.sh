@@ -17,7 +17,7 @@ else
     echo "e[1;31m[ERROR]\e[0m Coremark Build failed"
     return 1
 fi
-output=$(./build/lowrisc_ibex_ibex_simple_system_0/sim-verilator/Vibex_simple_system --meminit=ram,./ibex/examples/sw/benchmarks/coremark/coremark.elf)
+output=$(./build/lowrisc_ibex_ibex_simple_system_0/sim-verilator/Vibex_simple_system --meminit=ram,./ibex/examples/sw/benchmarks/coremark/coremark.elf +ibex_tracer_enable=0)
 
 # Grep the line with "Simulation speed" and extract the number
 cps=$(echo "$output" | grep "Simulation speed" | grep -oP '\d+(\.\d+)?' | sed -n '1p')
