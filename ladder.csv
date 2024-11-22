@@ -9,3 +9,4 @@ AMD Ryzen 9 7950X (32) @ 5.881GHz, 63405MiB, Ubuntu 22.04.4 LTS x86_64, 4.210, 1
 Apple M3 (8) @ 4.05GHz, 3902MiB, Ubuntu 24.04.1 LTS aarch64, 5.028, 1.84481M
 Apple M2 Pro (10) @ 3.70GHz, 3910MiB, Ubuntu 22.04.5 LTS aarch64, 4.210, 1.85308M
 Apple M3 (8) @ 4.05GHz, 3908MiB, Ubuntu 22.04.5 LTS aarch64, 4.210, 2.05366M
+Apple M4 (8) QEMU Virtual Machine virt-8.2, 7927MiB, Ubuntu 22.04.5 LTS aarch64, 4.210, 2.33808M
