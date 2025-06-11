@@ -1,5 +1,6 @@
 Processor, Memory, Linux Distro, Verilator Version, Best Score (CPS)
 Intel Core 2 Duo P8600 (2) @ 2.401GHz, 5853MiB, Ubuntu 22.04.5 LTS x86_64, 4.210, 0.220426M
+Intel i7-6600U (4) @ 3.400GHz, 15861MiB, Ubuntu 22.04.5 LTS x86_64, 4.210, 0.829369M
 AMD Ryzen 7 PRO 5850U (16) @ 1.896GHz, 7350MiB, Ubuntu 22.04.1 LTS on Windows 10 x86_64, 4.210, 0.897389M
 BCM2712 (4) @ 3.000GHz, 8049MiB, Debian GNU/Linux 12 aarch64, 4.222, 0.934282M
 AMD Ryzen 7 5800X3D (16) @ 3.40GHz, 64210MiB, Ubuntu 22.04.4 LTS x86_64, 4.210, 1.17502M
