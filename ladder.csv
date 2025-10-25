@@ -1,16 +1,16 @@
-Processor, Memory, Linux Distro, Linux Kernel, Verilator Version, Best Score (CPS)
-Intel Core 2 Duo P8600 (2) @ 2.401GHz, 5853MiB, Ubuntu 22.04.5 LTS x86_64, -, 4.210, 0.220426M
-Intel i7-6600U (4) @ 3.400GHz, 15861MiB, Ubuntu 22.04.5 LTS x86_64, -, 4.210, 0.829369M
-AMD Ryzen 7 PRO 5850U (16) @ 1.896GHz, 7350MiB, Ubuntu 22.04.1 LTS on Windows 10 x86_64, -, 4.210, 0.897389M
-Intel i7-7820HQ (8) @ 3.900GHz, 31808MiB, Ubuntu MATE 24.04.2 LTS x86_64, -, 4.210, 0.908227M
-BCM2712 (4) @ 3.000GHz, 8049MiB, Debian GNU/Linux 12 aarch64, -, 4.222, 0.934282M
-AMD Ryzen 7 5800X3D (16) @ 3.40GHz, 64210MiB, Ubuntu 22.04.4 LTS x86_64, -, 4.210, 1.17502M
-12th Gen Intel i7-12800H (20) @ 2.803GHz, 31932MiB, Ubuntu 22.04.3 LTS on Windows 10 x86_64, -, 4.210, 1.36639M
-12th Gen Intel i9-12900H (20) @ 2.918GHz, 32098MiB, Ubuntu 22.04.5 LTS on Windows 10 x86_64, -, 4.210, 1.50951M
-AMD Ryzen 9 7845HX with Radeon Graphics (24) @ 2.994GHz, 31697MiB, Ubuntu 22.04.5 LTS on Windows 10 x86_64, 5.15.167.4-microsoft-standard-WSL2, 4.210, 1.62326M
-AMD Ryzen 9 7950X (32) @ 5.881GHz, 63405MiB, Ubuntu 22.04.4 LTS x86_64, -, 4.210, 1.71408M
-Apple M3 (8) @ 4.05GHz, 3902MiB, Ubuntu 24.04.1 LTS aarch64, -, 5.028, 1.84481M
-Apple M2 Pro (10) @ 3.70GHz, 3910MiB, Ubuntu 22.04.5 LTS aarch64, -, 4.210, 1.85308M
-Intel Ultra 7 258V (8) @ 3.302GHz, 15732MiB, Ubuntu 22.04.5 LTS on Windows 10 x86_64,  6.6.87.2-microsoft-standard-WSL2, 4.210, 1.88774M
-Apple M3 (8) @ 4.05GHz, 3908MiB, Ubuntu 22.04.5 LTS aarch64, -, 4.210, 2.05366M
-Apple M4 (10) QEMU Virtual Machine virt-8.2, 7927MiB, Ubuntu 22.04.5 LTS aarch64, -, 4.210, 2.33808M
+Device, Processor, Memory, Linux Distro, Linux Kernel, Verilator Version, Best Score (CPS)
+,Intel Core 2 Duo P8600 (2) @ 2.401GHz, 5853MiB, Ubuntu 22.04.5 LTS x86_64, -, 4.210, 0.220426M
+,Intel i7-6600U (4) @ 3.400GHz, 15861MiB, Ubuntu 22.04.5 LTS x86_64, -, 4.210, 0.829369M
+,AMD Ryzen 7 PRO 5850U (16) @ 1.896GHz, 7350MiB, Ubuntu 22.04.1 LTS on Windows 10 x86_64, -, 4.210, 0.897389M
+,Intel i7-7820HQ (8) @ 3.900GHz, 31808MiB, Ubuntu MATE 24.04.2 LTS x86_64, -, 4.210, 0.908227M
+,BCM2712 (4) @ 3.000GHz, 8049MiB, Debian GNU/Linux 12 aarch64, -, 4.222, 0.934282M
+,AMD Ryzen 7 5800X3D (16) @ 3.40GHz, 64210MiB, Ubuntu 22.04.4 LTS x86_64, -, 4.210, 1.17502M
+,12th Gen Intel i7-12800H (20) @ 2.803GHz, 31932MiB, Ubuntu 22.04.3 LTS on Windows 10 x86_64, -, 4.210, 1.36639M
+,12th Gen Intel i9-12900H (20) @ 2.918GHz, 32098MiB, Ubuntu 22.04.5 LTS on Windows 10 x86_64, -, 4.210, 1.50951M
+ASUS ROG Strix G17 G713PV,AMD Ryzen 9 7845HX with Radeon Graphics (24) @ 2.994GHz, 31697MiB, Ubuntu 22.04.5 LTS on Windows 10 x86_64, 5.15.167.4-microsoft-standard-WSL2, 4.210, 1.62326M
+,AMD Ryzen 9 7950X (32) @ 5.881GHz, 63405MiB, Ubuntu 22.04.4 LTS x86_64, -, 4.210, 1.71408M
+,Apple M3 (8) @ 4.05GHz, 3902MiB, Ubuntu 24.04.1 LTS aarch64, -, 5.028, 1.84481M
+,Apple M2 Pro (10) @ 3.70GHz, 3910MiB, Ubuntu 22.04.5 LTS aarch64, -, 4.210, 1.85308M
+ASUS Vivobook S 14,Intel Ultra 7 258V (8) @ 3.302GHz, 15732MiB, Ubuntu 22.04.5 LTS on Windows 10 x86_64,  6.6.87.2-microsoft-standard-WSL2, 4.210, 1.88774M
+,Apple M3 (8) @ 4.05GHz, 3908MiB, Ubuntu 22.04.5 LTS aarch64, -, 4.210, 2.05366M
+Mac mini,Apple M4 (10) QEMU Virtual Machine virt-8.2, 7927MiB, Ubuntu 22.04.5 LTS aarch64, -, 4.210, 2.33808M
