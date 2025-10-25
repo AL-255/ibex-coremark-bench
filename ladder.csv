@@ -6,6 +6,7 @@ Device, Processor, Memory, Linux Distro, Linux Kernel, Verilator Version, Best S
 ,BCM2712 (4) @ 3.000GHz, 8049MiB, Debian GNU/Linux 12 aarch64, -, 4.222, 0.934282M
 ,AMD Ryzen 7 5800X3D (16) @ 3.40GHz, 64210MiB, Ubuntu 22.04.4 LTS x86_64, -, 4.210, 1.17502M
 ,12th Gen Intel i7-12800H (20) @ 2.803GHz, 31932MiB, Ubuntu 22.04.3 LTS on Windows 10 x86_64, -, 4.210, 1.36639M
+HP EliteBook X G1a 14, AMD Ryzen AI 9 HX PRO 375, 31359MiB, Ubuntu 24.04.3 LTS x86_64, 6.14.0-33-generic, 4.210, 1.39732M
 ,12th Gen Intel i9-12900H (20) @ 2.918GHz, 32098MiB, Ubuntu 22.04.5 LTS on Windows 10 x86_64, -, 4.210, 1.50951M
 ASUS ROG Strix G17 G713PV,AMD Ryzen 9 7845HX with Radeon Graphics (24) @ 2.994GHz, 31697MiB, Ubuntu 22.04.5 LTS on Windows 10 x86_64, 5.15.167.4-microsoft-standard-WSL2, 4.210, 1.62326M
 ,AMD Ryzen 9 7950X (32) @ 5.881GHz, 63405MiB, Ubuntu 22.04.4 LTS x86_64, -, 4.210, 1.71408M
