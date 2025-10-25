@@ -1,3 +1,5 @@
 build/
 ibex_simple_system_pcount.csv
 *.log
+.vscode/
+.DS_Store
